@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tranq
+ *
+ */
+module Laptrinhhuongdoituong {
+}
